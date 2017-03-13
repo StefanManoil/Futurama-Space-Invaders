@@ -1,2 +1,2 @@
 # Futurama-Space-Invaders
-A fun game I made in Java.
+A fun space invaders game I made using Java.
